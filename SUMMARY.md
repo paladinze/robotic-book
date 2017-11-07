@@ -1,5 +1,15 @@
 # Summary
 
-* [Introduction](README.md)
+### 第一部分: 入门课程
 
-![](https://ksr-ugc.imgix.net/assets/003/564/417/be2b59e3fe95e366f2efa4e5b1b8f85f_original.jpg?w=680&fit=max&v=1428290171&auto=format&q=92&s=a3cb77a7a81828c2b2977e036bc7ffe9)
+* [前言](README.md)
+* [课程介绍](chapter-1/README.md)
+  - [软件介绍](chapter-1/intro_software.md)
+  - [硬件介绍](chapter-1/intro_hardware.md)
+
+* [做机器的主人](chapter-2/README.md)
+  - [你的第一个机器人](chapter-2/first_robot.md)
+  - [你的第一个软件](chapter-2/first_program.md)
+
+* [变量：记录会变的东西](chapter-3/README.md)
+  - [变量是什么](chapter-3/intro_variable.md)
