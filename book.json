@@ -1,0 +1,10 @@
+{
+  "title": "泽的机器人课堂",
+  "author": "游侠",
+  "styles": {
+    "website": "styles/website.css"
+  },
+  "variables": {
+    "robot_mbot": "mBot"
+  }
+}
