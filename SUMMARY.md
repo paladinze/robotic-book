@@ -1,7 +1,15 @@
 # Summary
 
 * [前言](README.md)
-* 第一课：课程介绍
+* [第一课：课程介绍](chapter-1/README.md)
+* [第二课：硬件是机器人的身体](chapter-1/README.md)
+* [第三课：软件是机器人的心](chapter-1/README.md)
+* [第四课：软件是输入变成输出的过程](chapter-1/README.md)
+* [第五课：针对情况自动做不同的决定](chapter-1/README.md)
+
+
+
+
 * [课程介绍](chapter-1/README.md)
   * [软件介绍](chapter-1/intro_software.md)
   * [硬件介绍](chapter-1/intro_hardware.md)
