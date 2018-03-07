@@ -2,6 +2,10 @@
 
 * [前言](README.md)
 * [第一课：课程介绍](chapter-1/README.md)
+    * [影视中的机器人](chapter-1/README.md)
+    * [现实中的机器人](chapter-1/README.md)
+    * [初期课程介绍](chapter-1/README.md)
+    * [进阶课程介绍](chapter-1/README.md)
 * [第二课：硬件是机器人的身体](chapter-1/README.md)
 * [第三课：软件是机器人的心](chapter-1/README.md)
 * [第四课：软件是输入变成输出的过程](chapter-1/README.md)
