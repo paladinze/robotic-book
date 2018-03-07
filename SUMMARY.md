@@ -1,7 +1,7 @@
 # Summary
 
 * [前言](README.md)
-* 第一课：General Introduction（课程介绍）
+* 第一课：课程介绍
 * [课程介绍](chapter-1/README.md)
   * [软件介绍](chapter-1/intro_software.md)
   * [硬件介绍](chapter-1/intro_hardware.md)
