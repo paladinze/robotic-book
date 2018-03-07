@@ -1,7 +1,5 @@
 # Summary
 
-### 第一部分: 入门课程
-
 * [前言](README.md)
 * [课程介绍](chapter-1/README.md)
 
