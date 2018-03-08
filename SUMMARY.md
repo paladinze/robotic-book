@@ -14,7 +14,6 @@
 * [第三课：软件是机器人的心](chapter_3/README.md)
   * [实验](chapter_3/lab.md)
 * [第四课：软件是输入变成输出的过程](chapter_4/README.md)
-  * [实验](chapter_4/lab01.md)
 * [第五课：针对情况自动做不同的决定](chapter_5/README.md)
 * [第六课：重复做指定次数很累的事情](chapter_6/README.md)
 
