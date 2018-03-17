@@ -8,3 +8,6 @@
 
 [![网页链接](images/mbot_with_lego.jpg)](https://v.qq.com/x/page/v0549552356.html)
 
+语法：
+[![自定义的alt tag,图片加载出错或悬浮时显示](图片地址，需要先上传图片才看得到)](网址链接)
+
