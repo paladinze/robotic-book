@@ -14,8 +14,9 @@
   * [做实验](chapter_2/lab.md)
 * [第三课：软件是机器人的心](chapter_3/README.md)
   * [学软件有什么用](chapter_3/jie-shao-ruan-jian.md)
-  * 软件到底长什么样
-  * 软件运行三要素
+  * [软件到底长什么样](chapter_3/ruan-jian-dao-di-chang-shi-yao-yang.md)
+  * [软件运行三要素](chapter_3/ruan-jian-yun-xing-san-yao-su.md)
+  * [机器如何执行软件](chapter_3/he-xin-gai-nian.md)
   * [做实验](chapter_3/lab.md)
 * [第四课：软件是输入变成输出的过程](chapter_4/README.md)
   * [实验](chapter_4/lab.md)
