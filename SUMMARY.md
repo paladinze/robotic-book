@@ -4,6 +4,7 @@
 * [第一课：课程介绍](chapter_1/README.md)
   * [影视中的机器人](chapter_1/robot_in_movie.md)
   * [现实中的机器人](chapter_1/robot_in_reallife.md)
+  * [思考与小结](chapter_1/xiao-jie.md)
   * [初期课程介绍](chapter_1/starter_course_intro.md)
   * [进阶课程介绍](chapter_1/regular_course_intro.md)
 * [第二课：硬件是机器人的身体](chapter_2/README.md)
