@@ -11,7 +11,7 @@
   * [机器人组件介绍](chapter_2/hardware_component_intro.md)
   * [创作工具介绍](chapter_2/tool_intro.md)
   * [机器人小车原理](chapter_2/robot_car_intro.md)
-  * [实验](chapter_2/lab.md)
+  * [做实验](chapter_2/lab.md)
 * [第三课：软件是机器人的心](chapter_3/README.md)
   * [实验](chapter_3/lab.md)
 * [第四课：软件是输入变成输出的过程](chapter_4/README.md)
