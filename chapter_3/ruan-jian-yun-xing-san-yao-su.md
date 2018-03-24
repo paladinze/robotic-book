@@ -5,3 +5,7 @@
 1. 处理器（Processor/CPU）
 2. 储存（Storage）
 3. 代码（Code）
+
+
+**（或以流程图代替）**
+
