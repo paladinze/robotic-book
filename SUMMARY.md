@@ -9,7 +9,7 @@
   * [进阶课程介绍](chapter_1/regular_course_intro.md)
 * [第二课：硬件是机器人的身体](chapter_2/README.md)
   * [机器人组件介绍](chapter_2/hardware_component_intro.md)
-  * [工具介绍与注意](chapter_2/tool_intro.md)
+  * [工具介绍与注意事项](chapter_2/tool_intro.md)
   * [机器人小车原理](chapter_2/robot_car_intro.md)
   * [做实验](chapter_2/lab.md)
 * [第三课：软件是机器人的心](chapter_3/README.md)
