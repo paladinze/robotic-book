@@ -24,5 +24,9 @@
   * [思考与小结](chapter_4/2.md)
   * [做实验](chapter_4/lab.md)
 * [第五课：针对情况自动做不同的决定](chapter_5/README.md)
+  * [1](chapter_5/1.md)
+  * 2
+  * 3
+  * 4
 * [第六课：重复做指定次数很累的事情](chapter_6/README.md)
 
